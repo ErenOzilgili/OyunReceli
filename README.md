@@ -19,7 +19,7 @@ karakterler
 }
 
 
-görev dağılımı: harita, düşman, doğma mekanikleri, karakter hareketi, düşman kontrol
+görev dağılımı: harita, düşman, doğma mekanikleri, karakter hareketi, düşman kontrol, game manage
 alperen:                    alper:                    eren:                      egemen:             Hikmet:            Arca: 
 karakter hareketi           harita               doğma mekanikleri                                               karakterin yumurta atması
-                                                yumurta atma mekaniği
+game manager                                   yumurta atma mekaniği
